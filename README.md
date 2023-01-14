@@ -6,7 +6,7 @@ A [@nuel_nartey](https://twitter.com/nuel_nartey) Flutter Showcase project.
 
 
 ## Screenshot
-<img src="https://github.com/Manuelkpatsu/users_face_pile/blob/main/screenshots/1.png" height='100' width='50' />
+<img src="https://github.com/Manuelkpatsu/users_face_pile/blob/main/screenshots/1.png" height='500' width='250' />
 
 A few resources to get you started if this is your first Flutter project:
 
