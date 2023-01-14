@@ -6,7 +6,7 @@ A [@nuel_nartey](https://twitter.com/nuel_nartey) Flutter Showcase project.
 
 
 ## Screenshot
-<img src="https://github.com/Manuelkpatsu/auth_stepper_ui/blob/main/screenshots/1.png" />
+<img src="https://github.com/Manuelkpatsu/users_face_pile/blob/main/screenshots/1.png" />
 
 A few resources to get you started if this is your first Flutter project:
 
