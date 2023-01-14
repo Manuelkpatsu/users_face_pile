@@ -1,10 +1,12 @@
-# face_pile_app
+# A Flutter Faces Pile UI App
 
-A new Flutter project.
+A UI app built with flutter which demonstrates how images are piled on top of each other.
 
-## Getting Started
+A [@nuel_nartey](https://twitter.com/nuel_nartey) Flutter Showcase project.
 
-This project is a starting point for a Flutter application.
+
+## Screenshot
+<img src="https://github.com/Manuelkpatsu/auth_stepper_ui/blob/main/screenshots/1.png" />
 
 A few resources to get you started if this is your first Flutter project:
 
