@@ -12,7 +12,7 @@ class AvatarCircle extends StatelessWidget {
   const AvatarCircle({
     Key? key,
     required this.user,
-    this.size = 48,
+    this.size = 40,
     required this.nameLabelColor,
     required this.backgroundColor,
   }) : super(key: key);
