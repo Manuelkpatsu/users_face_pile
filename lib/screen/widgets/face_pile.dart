@@ -52,6 +52,7 @@ class FacePile extends StatelessWidget {
                   user: users[i],
                   nameLabelColor: const Color(0xff222222),
                   backgroundColor: const Color(0xffbac0ca),
+                  size: faceSize,
                 ),
               ),
           ],
